@@ -15,6 +15,8 @@ int main(){
         rest = (n % divider);
 
         if(rest == 0){
+            
+            //mostra os divisores e contabiliza eles
             printf("%d\n", divider);
             count++;    
         }

@@ -13,13 +13,13 @@ int main(){
     overMasc = 31.1;
 
     printf("Digite o codigo correspondente ao sexo: \n 1 - Feminino\n 2 - Masculino\n");
-    scanf("%d\n", &sexCode);
+    scanf("%d", &sexCode);
 
     printf("Digite o peso: \n");
-    scanf("%lf\n", &peso);
+    scanf("%lf", &peso);
 
     printf("Digite a altura: \n");
-    scanf("%lf\n", &altura);
+    scanf("%lf", &altura);
 
     imc = (peso / pow(altura, 2));
     
