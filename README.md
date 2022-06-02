@@ -5,7 +5,7 @@
 
 ## Enunciados:
 
-- [x] ###Ex01 
+## - [x]Ex01 
 Escrever um algoritmo que exiba os números enquanto forem menores que 30.
 
 - [x] #Ex02 
