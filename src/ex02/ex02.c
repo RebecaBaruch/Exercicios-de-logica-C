@@ -11,7 +11,7 @@ int main(){
        
         if(atual != stop){
             result = atual * anterior;
-            anterior = n;
+            anterior = result;
         } 
         printf("%d\n", result);
 
