@@ -11,7 +11,7 @@ Escrever um algoritmo que exiba os números enquanto forem menores que 30.
 - [x] #Ex02 
 Escrever um algoritmo que leia *n* números e efetue a multiplicação entre o atual e o anterior. A condição de saída será quando o usuário digital *0*.
 
-- [x] ######Ex03 
+- [x] ## Ex03 
 Fazer um algoritmo que leia 5 números e mostre a média entre eles.
 
 - [x] ######Ex04
