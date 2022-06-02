@@ -9,7 +9,7 @@
 Escrever um algoritmo que exiba os números enquanto forem menores que 30.
 
 ✔️### **Ex02** <br>
-Escrever um algoritmo que leia *n* números e efetue a multiplicação entre o atual e o anterior. A condição de saída será quando o usuário digital *0*.
+Escrever um algoritmo que leia *n* números e efetue a multiplicação entre o atual e o anterior. A condição de saída será quando o usuário digitar *0*.
 
 ✔️### **Ex03** <br>
 Fazer um algoritmo que leia 5 números e mostre a média entre eles.
