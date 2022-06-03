@@ -15,7 +15,7 @@ Escrever um algoritmo que leia *n* números e efetue a multiplicação entre o a
 Fazer um algoritmo que leia 5 números e mostre a média entre eles.
 
 ### **Ex04** ✔️ <br>
-Escrever um algoritmo determine **quais** e **quantos** são os divisores de um número *n*.
+Escrever um algoritmo que determine **quais** e **quantos** são os divisores de um número *n*.
 
 ### **Ex05** ✔️ <br>
 Escrever um algoritmo que realize a potência de *A* por *B*, através de multiplicações. Ex.: "4 elevado a 3" -> *4 x 4 x 4*
