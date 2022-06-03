@@ -1,5 +1,5 @@
 # Exercicios-de-logica-C
- Neste repositório você irá encontrar exercícios que resolvi para praticar lógica de programação.
+ Neste repositório você irá encontrar exercícios que resolvi para praticar lógica de programação. O objetivo era estudar a estrutura de repetição *while* e a resolução dos problemas contam com o uso do mesmo.
  
  **Linguagem utilizada**: C
 
